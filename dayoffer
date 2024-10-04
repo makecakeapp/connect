@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Photo 1",
-    "description": "0,5 kg of any gelatin candies",
+    "description": "0.5 kg of any gelatin candies",
     "imageUrl": "https://i.ibb.co/5Tr2qXZ/newone.jpg",
     "bonusPrice": 240
   },
@@ -19,6 +19,5 @@
     "description": "On your birthday you can get any type of cakes for 200 bonus",
     "imageUrl": "https://i.ibb.co/D81mVy3/cake.jpg",
     "bonusPrice": 200
-  
   }
 ]
