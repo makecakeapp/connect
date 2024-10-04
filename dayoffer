@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Photo 1",
+    "description": "0,5 kg of any gelatin candies",
+    "imageUrl": "https://i.ibb.co/5Tr2qXZ/newone.jpg",
+    "bonusPrice": 240
+  },
+  {
+    "id": 2,
+    "name": "Photo 2",
+    "description": "6 of any type cupcakes",
+    "imageUrl": "https://i.ibb.co/KhbcMqq/34df7c8d3783a5bf135d1e3e2f02e2f4.jpg",
+    "bonusPrice": 360
+  },
+  {
+    "id": 3,
+    "name": "Photo 3",
+    "description": "On your birthday you can get any type of cakes for 200 bonus",
+    "imageUrl": "https://i.ibb.co/D81mVy3/cake.jpg",
+    "bonusPrice": 200
+  
+  }
+]
